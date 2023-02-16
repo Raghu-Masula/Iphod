@@ -43,7 +43,7 @@ class Navbar extends React.Component {
 
     // fir getting current time in string
     getCurrentTime() {
-        const today = new Date();
+        // const today = new Date();
         var time =new Date().toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true })
         /* today.getHours() + ":" + today.getMinutes();
         if (today.getMinutes() < 10) {

@@ -28,7 +28,7 @@ class About extends React.Component {
         return (
             <div style={cssProp} className="information-container">
                 <div className="info-div">
-                    <h3>Operation</h3>
+                    <h3>Instructions</h3>
                     <p>1. To unlock the screen you have to press center button and to lock screen you have to press menu button in main menu.</p>
                     <p>2. To play and pause music in any menu you need to press play/pause button on bottom. Only works when unlocked</p>
                     <p>3. Short pressing on forward/reverse will take you to next/previous track (ONLY WHILE PLAYING) </p>
@@ -36,9 +36,9 @@ class About extends React.Component {
                     <p>5. To navigate between a menu items you need to rotate on track wheel</p>
                     <p>6. To go to next menu or go inside a menu press center button and to go to previous menu press menu button</p>
                     <p>7. Songs do play, Please checkout settings menu</p>
-                    <p>Github-Link : <a href="https://github.com/RitishKhanna/iPod-Classic">iPod</a> 
+                    <p>Github-Link : <a href="">iPod</a> 
                     </p>
-                    <p>Hosting-Link : <a href="http://RitishKhanna.github.io/iPod-Classic">iPod-Hosted</a> 
+                    <p>Hosting-Link : <a href="">iPod-Hosted</a> 
                     </p>
                     <p>App Developed by : <a href="https://github.com/Raghu-Masula">Raghu</a></p>
                     <p>credits : Apple, Flaticon</p>
